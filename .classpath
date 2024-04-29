@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/bc-fips-1.0.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/bctls-fips-1.0.18.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/jackson-annotations-2.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/jackson-core-2.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/jackson-databind-2.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/java-jwt-4.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/micrometer-commons-1.12.1.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/micrometer-observation-1.12.1.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/spring-beans-6.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/spring-core-6.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/spring-jcl-6.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/spring-web-6.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/httpclient-4.5.14.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/httpcore-4.4.16.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/spring-transaction.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/app-store-server-library-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/okhttp-5.0.0-alpha.12.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/okhttp-jvm-5.0.0-alpha.12.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/kotlin-stdlib-1.9.21.jar"/>
+	<classpathentry kind="lib" path="E:/Dev/2023.11.27/Job/eclipse_workspace/AppleAPIService/lib/okio-jvm-3.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
